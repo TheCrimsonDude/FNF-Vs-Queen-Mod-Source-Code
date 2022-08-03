@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg 20000" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20001" x="2030" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20002" x="4060" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20003" x="6090" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20004" x="0" y="1185" width="2001" height="1156"/>
+	<SubTexture name="bg 20005" x="2030" y="1185" width="2001" height="1156"/>
+	<SubTexture name="bg 20006" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20007" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20008" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20009" x="4060" y="1185" width="2001" height="1156"/>
+	<SubTexture name="bg 20010" x="6090" y="1185" width="2001" height="1156"/>
+	<SubTexture name="bg 20011" x="0" y="2370" width="2001" height="1156"/>
+	<SubTexture name="bg 20012" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20013" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20014" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20015" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20016" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20017" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20018" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20019" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20020" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20021" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20022" x="0" y="0" width="2001" height="1156"/>
+	<SubTexture name="bg 20023" x="0" y="0" width="2001" height="1156"/>
+</TextureAtlas>

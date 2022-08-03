@@ -1,0 +1,2 @@
+Value1: Opacity
+Value2: Duration

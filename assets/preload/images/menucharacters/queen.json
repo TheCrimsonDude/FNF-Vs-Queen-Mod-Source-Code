@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Queen Idle Black Lines",
+	"image": "Menu_Queen",
+	"position": [
+		0,
+		0
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

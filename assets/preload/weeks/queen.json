@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Queen",
+			"queen",
+			[
+				26,
+				113,
+				253
+			]
+		],
+		[
+			"Boss Attack",
+			"queen",
+			[
+				26,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"queen",
+		"bf",
+		"gf"
+	],
+	"storyName": "queen",
+	"weekName": "queen",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "queen",
+	"startUnlocked": true
+}

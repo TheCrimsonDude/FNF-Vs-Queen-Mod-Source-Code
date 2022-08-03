@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "hall",
+		"player1": "bf-kris",
+		"player2": "queen",
+		"player3": null,
+		"events": [
+			[
+				95104.1666666667,
+				[
+					[
+						"Banana",
+						"1",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-sus",
+		"bpm": 144,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Boss Attack"
+	}
+}
